@@ -1,0 +1,10 @@
+"dataset","totparticles","totsubsamps","randnum","randper","colnum","colper","shpnum","shpper","shpcolnum","shpcolper"
+"lorenz plankton",567,3,26,26,70,4,32,6,70,2
+"lorenz sediment",567,3,26,26,70,4,32,6,70,2
+"bourdages birds",567,3,26,26,70,4,32,6,70,2
+"teboul birds",567,3,26,26,70,4,32,6,70,2
+"CJ sediment",567,3,26,26,70,4,32,6,70,2
+"CJ inverts",567,3,26,26,70,4,32,6,70,2
+"CJ inverts time",567,3,26,26,70,4,32,6,70,2
+"rain garden",567,3,26,26,70,4,32,6,70,2
+"vidal",567,3,26,26,70,4,32,6,70,2
